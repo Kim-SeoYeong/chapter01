@@ -24,6 +24,8 @@ public class Ex08 {
 			System.out.println("0 입니다.");
 		}
 		
+		sc.close();
+		
 	}
 
 }
