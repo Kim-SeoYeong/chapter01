@@ -1,0 +1,20 @@
+package com.javaex.ex05;
+
+public class Ex01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num1, num2, num3, num4, num5, num6;
+		
+		num1 = (int)(Math.random()*45)+1;
+		num2 = (int)(Math.random()*45)+1;
+		num3 = (int)(Math.random()*45)+1;
+		num4 = (int)(Math.random()*45)+1;
+		num5 = (int)(Math.random()*45)+1;
+		num6 = (int)(Math.random()*45)+1;
+		
+		System.out.println(num1 + " " + num2 + " " + num3 + " " + num4 + 
+				" " + num5 + " " + num6);
+	}
+
+}
